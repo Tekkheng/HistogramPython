@@ -4,7 +4,7 @@ Ini adalah solusi untuk tugas technical test membuat histogram menggunakan Pytho
 
 ## Deskripsi
 
-Skrip `HistogramPython.py` akan:
+Skrip `challenge.py` akan:
 1.  Menggunakan 100 data nilai ujian statis (dummy data).
 2.  Membuat visualisasi histogram dari data tersebut menggunakan `matplotlib`.
 3.  Menghitung dan menampilkan garis nilai rata-rata (mean) menggunakan `numpy`.
@@ -22,5 +22,5 @@ Skrip `HistogramPython.py` akan:
     ```
 2.  Jalankan skrip:
     ```bash
-    python HistogramPython.py
+    python challenge.py
     ```
